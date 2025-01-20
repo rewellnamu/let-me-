@@ -1,0 +1,46 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #282c34;
+    color: white;
+    font-family: 'Arial', sans-serif;
+    background-size: cover;
+    background-image: url(black-alarm-clock-chalkboard-with-deadline-word-written.jpg);
+  }
+  .outbox{
+    background-color: maroon;
+    border-radius: 15px;
+  }
+  .wall{
+    background-image: url(395428769_271446432548801_474178836530877208_n.jpg);
+    border-radius: 70px;
+    background-size: cover;
+  }
+  
+  .clock {
+    font-size: 30px;
+    background-color: white;
+    padding: 0px;
+    border-radius: 00px;
+    align-content: center;
+    color: black;
+    text-decoration: wavy;
+    margin-left: 200px;
+
+    
+    
+  }
+  .time{
+    font-family: fantasy;
+  }
+  video{
+    height: 100px;
+    width: 300px;
+    border-radius: 100px;
+
+  }
+  p{
+    font-family: fantasy;
+  }
